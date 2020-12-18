@@ -12,8 +12,8 @@ Tonsil2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 #Tissue Tonsil
 Tonsil.list = list()
-Tonsil.list[[1]] <- CreateSeuratObject(Cillo)
-Tonsil.list[[2]] <- CreateSeuratObject(Tang)
+Tonsil.list[[1]] <- CreateSeuratObject(Tonsil1)
+Tonsil.list[[2]] <- CreateSeuratObject(Tonsil)
 
 
 #Colon
