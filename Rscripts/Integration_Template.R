@@ -6,8 +6,8 @@ read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 
 #Tonsil
-Cillo = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Tang = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Tonsil1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Tonsil2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 
 #Tissue Tonsil
@@ -17,80 +17,80 @@ Tonsil.list[[2]] <- CreateSeuratObject(Tang)
 
 
 #Colon
-Smillie = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Zhang10x = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-James = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Sam = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Colon1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Colon2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Colon3 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Colon4 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 
 
 Colon.list = list()
-Colon.list[[1]] <- CreateSeuratObject(Smillie)
-Colon.list[[2]] <- CreateSeuratObject(Zhang10x)
-Colon.list[[3]] <- CreateSeuratObject(James)
-Colon.list[[4]] <- CreateSeuratObject(Sam)
+Colon.list[[1]] <- CreateSeuratObject(Colon1)
+Colon.list[[2]] <- CreateSeuratObject(Colon2)
+Colon.list[[3]] <- CreateSeuratObject(Colon3)
+Colon.list[[4]] <- CreateSeuratObject(Colon4)
 
 
 
 #Lung
 
-Zilionis = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Reyfman = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Maier = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Lambrechts = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-CAD = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Kid = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Kiml = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung3 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung4 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung5 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung6 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Lung7 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 Lung.list = list()
 
-Lung.list[[1]] <- CreateSeuratObject(Zilionis)
-Lung.list[[2]] <- CreateSeuratObject(Reyfman)
-Lung.list[[3]] <- CreateSeuratObject(Maier)
-Lung.list[[4]] <- CreateSeuratObject(Lambrechts)
-Lung.list[[5]] <- CreateSeuratObject(CAD)
-Lung.list[[6]] <- CreateSeuratObject(Kid)
-Lung.list[[7]] <- CreateSeuratObject(Kiml)
+Lung.list[[1]] <- CreateSeuratObject(Lung1)
+Lung.list[[2]] <- CreateSeuratObject(Lung2)
+Lung.list[[3]] <- CreateSeuratObject(Lung3)
+Lung.list[[4]] <- CreateSeuratObject(Lung4)
+Lung.list[[5]] <- CreateSeuratObject(Lung5)
+Lung.list[[6]] <- CreateSeuratObject(Lung6)
+Lung.list[[7]] <- CreateSeuratObject(Lung7)
 
 #Liver
-Sharma = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-ZhangLiver = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Grun = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Rama = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Macp = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Liver1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Liver2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Liver3 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Liver4 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Liver5 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 Liver.list = list()
 
-Liver.list[[1]] <- CreateSeuratObject(Sharma)
-Liver.list[[2]] <- CreateSeuratObject(ZhangLiver)
-Liver.list[[3]] <- CreateSeuratObject(Grun)
-Liver.list[[4]] <- CreateSeuratObject(Rama)
-Liver.list[[5]] <- CreateSeuratObject(Macp)
+Liver.list[[1]] <- CreateSeuratObject(Liver1)
+Liver.list[[2]] <- CreateSeuratObject(Liver2)
+Liver.list[[3]] <- CreateSeuratObject(Liver3)
+Liver.list[[4]] <- CreateSeuratObject(Liver4)
+Liver.list[[5]] <- CreateSeuratObject(Liver5)
 
 
 
 #Pancreas
-Peng = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Pancreas = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
-Srt_Peng = CreateSeuratObject(Peng)
+Srt_Peng = CreateSeuratObject(Pancreas)
 
 
 #Spleen
-Rudensky = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Spleen = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
-Srt_Rudensky = CreateSeuratObject(Rudensky)
+Srt_Rudensky = CreateSeuratObject(Spleen)
 
 #Skin
-Cheng = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Kim = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Sato = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Asc = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Skin1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Skin2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Skin3 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Skin4 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 
 Skin.list <- list()
-Skin.list[[1]] <- CreateSeuratObject(Cheng)
-Skin.list[[2]] <- CreateSeuratObject(Kim)
-Skin.list[[3]] <- CreateSeuratObject(Sato)
-Skin.list[[4]] <- CreateSeuratObject(Asc)
+Skin.list[[1]] <- CreateSeuratObject(Skin1)
+Skin.list[[2]] <- CreateSeuratObject(Skin2)
+Skin.list[[3]] <- CreateSeuratObject(Skin3)
+Skin.list[[4]] <- CreateSeuratObject(Skin4)
 
 
 
@@ -102,17 +102,17 @@ Gasteric = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
 Srt_Gasteric = CreateSeuratObject(Gasteric)
 
 #Breast
-swar = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
-Azizi = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Breast1 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
+Breast2 = read.table('FILE.txt',sep = "/t",header = T,row.names = 1)
                        
 list.breast <- list()
-list.breast[[1]] <- CreateSeuratObject(swar)
-list.breast[[2]] <- CreateSeuratObject(Azizi)
+list.breast[[1]] <- CreateSeuratObject(Breast1)
+list.breast[[2]] <- CreateSeuratObject(Breast2)
 
 Global.list = c(Tonsil.list,Colon.list,Lung.list,Liver.list,Srt_Peng,Srt_Rudensky,Srt_Gasteric,list.breast,Skin.list)
 
 #naming files 
-names(Global.list) = c("1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","Sato","Emma","19","20","21","22","23","24","25","26","27") 
+names(Global.list) = c("1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27") 
 
 # normalizing data sets
 for (i in 1:length(Global.list)) {
@@ -138,14 +138,14 @@ file.integrated = JackStraw(file.integrated, dims = max(1:50))
 file.integrated = ScoreJackStraw(file.integrated, dims = 1:50)
 dims.use = file.integrated@reductions$pca@jackstraw@overall.p.values
 dims.use = dims.use[dims.use[, 2] < 0.05, 1] #taking significant PCA and assigning dims for UMAP
-save
+
 #running tsne and Umap 
 file.integrated <- RunTSNE(file.integrated, reduction = "pca", dims = dims.use,
                       do.fast = T, k.seed = 10, check_duplicates = FALSE,
                       perplexity = 30)
 file.integrated <- RunUMAP(file.integrated, dims = dims.use)
 
-saveRDS(file.integrated, file = "20201103_DC3_Integration_V2.RDS", ascii = FALSE, version = NULL,
+saveRDS(file.integrated, file = "Integration.RDS", ascii = FALSE, version = NULL,
         compress = TRUE, refhook = NULL)
 #print 
 pca_res = file.integrated@reductions$pca@cell.embeddings
