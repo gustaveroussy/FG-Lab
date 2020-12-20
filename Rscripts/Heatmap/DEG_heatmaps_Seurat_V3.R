@@ -1,4 +1,3 @@
-##### MINE 
 
 seurat_analysis_deg <- function(TPM_file="ZhangColon_Scenic_MacroMono_TPM.txt",
                                 sample_file="Scenic_ZhangColon_MacroMono_Dimred.txt",
