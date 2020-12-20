@@ -51,6 +51,7 @@ Query <- MapQuery(
 p1 = DimPlot(pbmc3k2, reduction = "ref.umap", group.by = "predicted.meta.data", label = TRUE, label.size = 3, repel = TRUE)
 p1
 
+#Merge datasets
 reference$id <- 'reference'
 pbmc3k2$id <- 'query'
 refquery <- merge(reference, pbmc3k2)
