@@ -118,7 +118,7 @@ names(Global.list) = c("1","2","3","4","5","6","7","8","9","10","11","12","13","
 for (i in 1:length(Global.list)) {
   Global.list[[i]] <- NormalizeData(Global.list[[i]], verbose = FALSE)
   Global.list[[i]] <- FindVariableFeatures(Global.list[[i]], selection.method = "vst", 
-                                             nfeatures = 3000, verbose = T)
+                                             nfeatures = 2000, verbose = T)
 }
 
 # running anchors between data sets
