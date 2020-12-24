@@ -1,2 +1,2 @@
 # MNPverse
-Scripts from the MNPverse
+Scripts from the MoMac-VERSE
