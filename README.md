@@ -1,8 +1,7 @@
 # MNPverse
 Welcome to the FG lab
 
-To explore the MoMac-VERSE please click on the following link: 
-Currently there is the following version: 
-
+You can browse our dataset through the cerebroApp accessible here (CTRL+click to open in a new tab)
+[Go to Real Cool Heading section](#http://macroverse.gustaveroussy.fr/)
 # Full matrix MoMac-VERSE: 
-http://macroverse.gustaveroussy.fr/
+
