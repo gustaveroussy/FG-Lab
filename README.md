@@ -1,6 +1,6 @@
 # MNP-VERSE
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FGustave-Roussy&psig=AOvVaw1N5qiNIOjnLFbWWi3CCtx3&ust=1615994531801000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCUufOOte8CFQAAAAAdAAAAABAD)
+![alt text](http://www.phd-in-oncology.com/wp-content/themes/phd-theme/images/partenaires-gustaveroussy.png)
 
 Welcome to the FG lab
 
