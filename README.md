@@ -1,6 +1,6 @@
 
 
-![alt text](http://www.phd-in-oncology.com/wp-content/themes/phd-theme/images/partenaires-gustaveroussy.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-gustave-roussy.jpg)
 
 Welcome to the FG lab
 You can browse our dataset through the cerebroApp accessible here (CTRL + Click to open in a new tab)
