@@ -1,6 +1,6 @@
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-gustave-roussy.jpg)
+![alt text](https://www.vygon.fr/wp-content/uploads/sites/2/2018/01/gustave-roussy.png)
 
 Welcome to the FG lab
 You can browse our dataset through the cerebroApp accessible here (CTRL + Click to open in a new tab)
