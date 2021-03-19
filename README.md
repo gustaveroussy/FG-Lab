@@ -1,6 +1,6 @@
 
 
-![alt text](https://i.imgur.com/34MZrrc.png)
+![alt text](https://imgur.com/mH5txvI)
 
 Welcome to the FG lab
 You can browse our dataset through the cerebroApp accessible here (CTRL + Click to open in a new tab)
