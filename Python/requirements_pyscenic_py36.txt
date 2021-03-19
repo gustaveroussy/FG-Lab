@@ -2,7 +2,7 @@ anndata==0.7.3
 arboreto==0.1.5
 attrs==19.3.0
 backcall==0.2.0
-bleach==3.1.5
+bleach>=3.3.0
 bokeh==2.1.1
 boltons==20.2.0
 certifi==2020.6.20
