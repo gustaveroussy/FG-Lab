@@ -5,10 +5,11 @@
 FG Lab Resources is a platform to provide access to databases used in our integrative studies. 
 This tool will allow exploration of metadata and gene expression profiles across tissues, conditions and clusters.
 
-You can browse our dataset through the cerebroApp accessible in the Link (CTRL + Click to open in a new tab)
+Our data is publicily avialable through an online interactive tool via the cerebroApp in the link below (CTRL + Click to open in a new tab)
 
 
 | MNP-VERSE | MoMac-VERSE | MoMac-VERSE (Downsampled) |
+| |  | (Downsampled) |
 | --------------- | --------------- |--------------- |
 | ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png)|![MoMac Verse](https://i.imgur.com/3sVf39r.png)|
 | [Link](http://macroverse.gustaveroussy.fr:8080/) | [Link](http://macroverse.gustaveroussy.fr:8081/)| [Link](http://macroverse.gustaveroussy.fr:8082/)|
