@@ -10,7 +10,7 @@ You can browse our dataset through the cerebroApp accessible in the Link (CTRL +
 
 | MNP-VERSE | MoMac-VERSE | MoMac-VERSE (Downsampled) |
 | --------------- | --------------- |--------------- |
-| ![MNP Verse](https://imgur.com/d8Ca65P)|![Imgur](https://i.imgur.com/3sVf39r.png)|![MoMac Verse](https://i.imgur.com/Y6XMlTO.png?2)|
+| ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png)|![MoMac Verse](https://i.imgur.com/3sVf39r.png)|
 | [Link](http://macroverse.gustaveroussy.fr:8080/) | [Link](http://macroverse.gustaveroussy.fr:8081/)| [Link](http://macroverse.gustaveroussy.fr:8082/)|
 | Genes: 2000  | Genes: 10356 | Genes: 5000 |
 | Cells: 17859 | Cells: 134857 | Cells: 42348 |
