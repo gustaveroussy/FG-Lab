@@ -8,11 +8,11 @@ This tool will allow exploration of metadata and gene expression profiles across
 Our data is publicily avialable through an online interactive tool via the cerebroApp in the link below (CTRL + Click to open in a new tab)
 
 
-| MNP-VERSE | MoMac-VERSE | MoMac-VERSE (Downsampled) |
-| Reduced genes | Full | Downsampled |
+| MNP-VERSE | MoMac-VERSE | MoMac-VERSE |
 | --------------- | --------------- |--------------- |
 | ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png)|![MoMac Verse](https://i.imgur.com/3sVf39r.png)|
 | [Link](http://macroverse.gustaveroussy.fr:8080/) | [Link](http://macroverse.gustaveroussy.fr:8081/)| [Link](http://macroverse.gustaveroussy.fr:8082/)|
+| Reduced genes | Full | Downsampled |
 | Genes: 2000  | Genes: 10356 | Genes: 5000 |
 | Cells: 178651  | Cells: 134857 | Cells: 42348 |
 | Publication Link | Publication Link | Publication Link |
