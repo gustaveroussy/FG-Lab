@@ -11,7 +11,6 @@ Our data is publicily avialable through an online interactive tool via the CellX
 | MNP-VERSE | MoMac-VERSE |
 | --------------- | --------------- |
 | ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png)
-| *Reduced genes* | *Full* | *Downsampled* |
 | [Link](http://macroverse.gustaveroussy.fr:8081/) | [Link](http://macroverse.gustaveroussy.fr:8080/)
 | Cells: 178651  | Cells: 134857 |
 | Publication Link | Publication Link |
