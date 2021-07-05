@@ -18,3 +18,4 @@ Our data is publicily avialable through an online interactive tool via the CellX
 
 #### Tips & Notes
 
+Click on the [here](https://chanzuckerberg.github.io/cellxgene/posts/gallery) for a short guideline in the features that can be used in this online interactive tool
