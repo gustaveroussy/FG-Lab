@@ -13,8 +13,8 @@ Our data is publicily avialable through an online interactive tool via the CellX
 | ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png)
 | [Link](http://macroverse.gustaveroussy.fr:8081/) | [Link](http://macroverse.gustaveroussy.fr:8080/)
 | Cells: 178651  | Cells: 134857 |
-| Publication Link | Publication Link |
-| [.RDS download Link]() | [.RDS download Link](https://mega.nz/file/79QVDQwQ#KRfxnSxMq578Rlbd7yL5DXUqU-J8tY-3nz6n_lX-Ov8) |
+| [Publication Link] (https://www.sciencedirect.com/science/article/pii/S1074761321002934) | [Publication Link] (https://www.sciencedirect.com/science/article/pii/S1074761321002934) |
+| [.RDS download Link](https://nextcloud.gustaveroussy.fr/s/Gkce9GTNcKWncJy) | [.RDS download Link](https://nextcloud.gustaveroussy.fr/s/Lbm2wZ2QAo2mnof) |
 
 #### Tips & Notes
 
