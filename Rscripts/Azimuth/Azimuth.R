@@ -1,10 +1,3 @@
-
-remotes::install_github("satijalab/seurat", ref = "release/4.0.0")
-remotes::install_github("jlmelville/uwot")
-remotes::install_github("mojaveazure/seurat-disk")
-
-#Download Azimuth packages
-
 library(Seurat)
 library(SeuratDisk)
 library(ggplot2)
