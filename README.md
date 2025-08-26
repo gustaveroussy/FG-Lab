@@ -10,7 +10,7 @@ Our data is publicily avialable through an online interactive tool via the CellX
 
 | MNP-VERSE | MoMac-VERSE | M-VERSE | DC-VERSE |
 | --------------- | --------------- | --------------- | --------------- |
-| ![MNP Verse](https://i.imgur.com/L1sYSWH.png)|![Imgur](https://i.imgur.com/3sVf39r.png) | ![Imgur](https://i.imgur.com/XvzJce7.png)| ![Imgur](https://imgur.com/a/sExpNPx.png)|
+| <img src="https://i.imgur.com/L1sYSWH.png" alt="MNP Verse" width="150"/> | <img src="https://i.imgur.com/3sVf39r.png" alt="Imgur" width="150"/> | <img src="https://i.imgur.com/XvzJce7.png" alt="Imgur" width="150"/> | <img src="https://imgur.com/RByturo.png" alt="DCVerse" width="150"/> |
 | [Link](https://macroverse.gustaveroussy.fr/MNP/) | [Link](https://macroverse.gustaveroussy.fr/2021_MoMac_VERSE/) | [Link](https://macroverse.gustaveroussy.fr/2021_M-VERSE) | [Link](https://macroverse.gustaveroussy.fr/2021_DC-VERSE/) |
 | Cells: 178651  | Cells: 134857 | Cells: 186335 | Cells : 38293 |
 | [Publication Link](https://www.sciencedirect.com/science/article/pii/S1074761321002934) | [Publication Link](https://www.sciencedirect.com/science/article/pii/S1074761321002934) |[Publication Link](https://www.sciencedirect.com/science/article/pii/S1074761322003375?via%3Dihub) | [Publication Link]() |
